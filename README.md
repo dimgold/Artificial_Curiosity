@@ -1,5 +1,7 @@
-# Artificial_Curiosity
+# Artificial Curiosity
 ## Adaptive Reinforcement Learning of curious AI basketball agent
+![](/robot.jpg?style=centerme)
+
 
 
 * Part 1 - [Bayesian Inference and Information Gain](part1-bayes/cur_project_bayes.ipynb)
