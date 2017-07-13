@@ -22,6 +22,6 @@ Manual Neural Network implementation with numpy and SGD method. This part requir
     
   - [Random Forest, SVM and PCA methods](Part2-NN/Other_models.ipynb)
   
-    Benchmark method for accuracy estimation and feature selection
+    Benchmarks method for accuracy estimation and feature selection
 
 ## Part 3 - [Curiosity Loop with Adaptive Reinforcement Learning](/Part3-RL/Artificial_Curiosity_Loop.ipynb)
