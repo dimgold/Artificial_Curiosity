@@ -33,10 +33,10 @@ Implementaion of Curosity Loop, using [Actor-Critic Method](https://cs.wmich.edu
 A "new-born" AI agent takes shots from diffent positions and learns the success of each shot, while trying to both learn the enviroment and score as much as possible.
 
 ## Project Presentation:
-![Link to project presentation (pdf)](Pres.pdf)
+[Link to project presentation (pdf)](Pres.pdf)
 
 ## More Links:
 
--[Big Data Lab @ TAU](http://bigdatalab.tau.ac.il/research/)
--[Curiosity Lab @ TAU](http://gorengordon.wixsite.com/gorengordon)
+- [Big Data Lab @ TAU](http://bigdatalab.tau.ac.il/research/)
+- [Curiosity Lab @ TAU](http://gorengordon.wixsite.com/gorengordon)
 
