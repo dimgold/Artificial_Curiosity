@@ -1,0 +1,2 @@
+,alpha,batch,trainsize,epochs,hl1,hl2/hl1,hl3/hl2,hl4/hl3,trainerror,TrainAUC,ValAUC
+0,0.01,500,100000000,100000,50,0.7,0.5,0,0.436186935885,0.692771667103,0.687490223464
