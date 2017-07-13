@@ -8,7 +8,7 @@ A machine learning project of learning NBA shots success ratio based on  410,000
 The project implement various ML techniques in order to create a "Curious" AI agent, which learns success ratios and implements the knowledge in [**exploration-expoitaition**](http://www.indigosim.com/tutorials/exploration/t0s1.htm) game simulation enviroment.
 
 ## Part 1 - [Bayesian Inference and Information Gain](part1-bayes/cur_project_bayes.ipynb)
-
+![https://robotonomics.files.wordpress.com/2014/03/bayes-and-hus-theory.png](https://robotonomics.files.wordpress.com/2014/03/bayes-and-hus-theory.png)
 ## Part 2 - [Neural Network Learning and Optimization](Part2-NN/cur_neural.ipynb)
 
 ### Extra:
