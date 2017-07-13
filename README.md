@@ -1,8 +1,9 @@
 # Artificial Curiosity
 ## Adaptive Reinforcement Learning of curious AI basketball agent
 ![](/robot.jpg?style=centerme)
+A machine learning project of learning NBA shots success ratio based on  410,000 records of [NBA players shots stats](http://stats.nba.com).
 
-
+The project implement various ML techniques in order to create a "Curious" AI agent, which learns success ratios and implements the knowledge in [**exploration-expoitaition**](http://www.indigosim.com/tutorials/exploration/t0s1.htm) game simulation enviroment.
 
 ## Part 1 - [Bayesian Inference and Information Gain](part1-bayes/cur_project_bayes.ipynb)
 
