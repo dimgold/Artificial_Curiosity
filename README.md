@@ -27,4 +27,9 @@ Manual Neural Network implementation with numpy and SGD method. This part requir
 ## Part 3 - [Curiosity Loop with Adaptive Reinforcement Learning](/Part3-RL/Artificial_Curiosity_Loop.ipynb)
 Implementaion of Curosity Loop, using [Actor-Critic Method](https://cs.wmich.edu/~trenary/files/cs5300/RLBook/node66.html) and Bayesian Inference.
 
+### The Curiosity Loop:
+![](Part3-RL/loop.PNG)
+
 A "new-born" AI agent takes shots from diffent positions and learns the success of each shot, while trying to both learn the enviroment and score as much as possible.
+
+## Project Presentation:
