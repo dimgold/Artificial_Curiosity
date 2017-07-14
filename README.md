@@ -34,6 +34,7 @@ A "new-born" AI agent takes shots from diffent positions and learns the success 
 
 ## Project Presentation:
 [Link to project presentation (pdf)](Pres.pdf)
+![presentation](presentation.png)
 
 ## More Links:
 
