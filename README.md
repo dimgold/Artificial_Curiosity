@@ -1,5 +1,5 @@
 # Artificial Curiosity
-## Adaptive Reinforcement Learning of curious AI basketball agent
+## Adaptive Reinforcement Learning of curious AI basketball agents
 ![](/robot.jpg?style=centerme)
 
 
